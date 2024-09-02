@@ -1,0 +1,11 @@
+******************
+Si se desea compilar el código es importante descargar e instalar las siguientes librerias:
+FPDF - https://pyfpdf.readthedocs.io/en/latest/
+password validator https://pypi.org/project/password-validator/
+Fernet https://cryptography.io/en/latest/fernet/
+sqllite 3 https://docs.python.org/3/library/sqlite3.html
+
+Un usario médico es el siguiente:
+Dni = 88888888a
+clave = Alejandro@1
+******************

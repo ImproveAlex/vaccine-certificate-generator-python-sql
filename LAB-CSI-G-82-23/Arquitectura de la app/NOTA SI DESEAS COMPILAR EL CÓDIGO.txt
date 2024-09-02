@@ -1,0 +1,6 @@
+******************
+Si se desea compilar el código es importante descargar la libreria FPDF
+
+https://pyfpdf.readthedocs.io/en/latest/
+
+******************
